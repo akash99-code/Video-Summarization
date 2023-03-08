@@ -1,0 +1,7 @@
+data/
+Generation/generated_summary/
+Model/vasnet/results/
+Model/vasnet/models/
+Preprocessing/extracted_features/
+Segmentation/Transnet/transnet_segments/
+Segmentation/Transnet/transnetv2-weights/
